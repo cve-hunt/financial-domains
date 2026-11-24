@@ -1,0 +1,54 @@
+﻿name,domain,category,subcategory,country,source,source_url,verified,verification_date,alternative_domains
+foxbit,com.br,open-finance,Banco Comercial;Banco Múltiplo;Banco Múltiplo Cooperativo,BR,bancosbrasileiros|er-tho-crypto-exchanges|defillama|coingecko|open-finance-brasil,https://github.com/guibranco/BancosBrasileiros,inactive,2026-11-24,banqi.com|bradesco.com|mercadopago.com
+BNDES,gov.br,open-finance,Banco Múltiplo;Caixa Econômica Federal,BR,bancosbrasileiros|open-finance-brasil,https://github.com/guibranco/BancosBrasileiros,disputed,2026-11-24,
+BCO DO EST. DO PA S.A.,b.br,open-finance,Banco Múltiplo,BR,bancosbrasileiros|open-finance-brasil,https://github.com/guibranco/BancosBrasileiros,inactive,2026-11-24,
+COOPCENTRAL AILOS,coop.br,open-finance,,BR,bancosbrasileiros|open-finance-brasil,https://github.com/guibranco/BancosBrasileiros,inactive,2026-11-24,
+ICBC DO BRASIL BM S.A.,com.cn,open-finance,Banco Múltiplo,BR|GB,bancosbrasileiros|obie-uk,https://github.com/guibranco/BancosBrasileiros,inactive,2026-11-24,
+BANCO SISTEMA,btgpactual.com,open-finance,Banco Múltiplo,BR,bancosbrasileiros|open-finance-brasil,https://github.com/guibranco/BancosBrasileiros,disputed,2026-11-24,btgmais.com|btgmaisbusiness.com|btgpactualdigital.com
+PICPAY,picpay.com,open-finance,Banco Múltiplo,BR,bancosbrasileiros|open-finance-brasil,https://github.com/guibranco/BancosBrasileiros,disputed,2026-11-24,
+HashAI,co.uk,open-finance,,GB,er-tho-crypto-exchanges|defillama|obie-uk|banksdataworldwide,https://github.com/er-tho/crypto-exchanges-list,inactive,2026-11-24,exelaportal.com|virginmoney.com
+HSBC Bank plc,hsbc.com,open-finance,commercial bank,GB|OM|US,fdic-bankfind|obie-uk|banksdataworldwide,https://banks.data.fdic.gov/api/institutions,disputed,2026-11-24,firstdirect.com|hsbcnet.com
+Revolut Ltd,revolut.com,open-finance,,BR|GB,defillama|open-finance-brasil|obie-uk,https://api.llama.fi/protocols,disputed,2026-11-24,rackcdn.com
+DOCK INSTITUICAO DE PAGAMENTO S.A.,dock.tech,open-finance,Instituições de Pagamento,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+BANCO CITIBANK S.A.,cipbanfico.com,open-finance,Instituições Bancárias,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,disputed,2026-11-24,
+CUMBUCA INSTITUICAO DE PAGAMENTO LTDA,atlassian.net,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,cumbuca.com
+ASAAS GESTAO FINANCEIRA INSTITUICAO DE PAGAMENTO S.A.,asaas.com,open-finance,Instituições de pagamento,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+QI SOCIEDADE DE CRÉDITO DIRETO S.A.,qitech.app,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+BANCO XP S.A.,xpinc.com,open-finance,Instituições Bancárias,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+Ebanx Instituicao de Pagamento Ltda.,ebanx.com,open-finance,Instituições de Pagamento,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+PAGSEGURO INTERNET S.A.,pagseguro.com,open-finance,Instituições de Pagamento,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+BANCO ARBI S.A.,app-terosopenbanking.com,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,disputed,2026-11-24,
+SISPRIME DO BRASIL - COOPERATIVA DE CREDITO,sensedia.com,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+SUMUP SOCIEDADE DE CRÉDITO DIRETO S.A.,sumup-bank.info,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+BANCO GENIAL S.A.,bancogenial.com,open-finance,Instituições Bancárias,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+Raidiam Services Ltd,raidiam.io,open-finance,Instituições bancárias,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+Belvo Instituicao de Pagamento Ltda.,belvo.com,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+PLUGGY BRASIL INSTITUICAO DE PAGAMENTO LTDA,pluggy.ai,open-finance,Instituições de Pagamento,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+99PAY INSTITUICAO DE PAGAMENTO S.A.,api99pay.com,open-finance,Instituições de pagamento,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+Wise,wise.com,open-finance,,BR,open-finance-brasil|awesome-payments,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+Swap Meios de Pagamentos Instituicao de Pagamento S.A.,contaswap.io,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+CLOUDWALK INSTITUICAO DE PAGAMENTO E SERVICOS LTDA,infinitepay.io,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+KLAVI INSTITUICAO DE PAGAMENTO E GESTAO DE DADOS LTDA.,klavi.ai,open-finance,,BR,open-finance-brasil,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+BANK OF BARODA,bankofbaroda.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+Investec Bank PLC,investec.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+ZELLER UK LIMITED,myzeller.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,obconnect.io|storyblok.com
+JORDAN INTERNATIONAL BANK PLC,jibonline.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+Zempler Bank Limited,cashplus.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,zempler.tech|zemplerbank.com
+Bank of Ireland (UK) Plc,bankofireland.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,disputed,2026-11-24,bankofirelanduk.com
+Modulr FS Limited,modulrfinance.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+ZOPA BANK LIMITED,zopa.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+TIDE PLATFORM LTD,bitbucket.org,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,tide.co
+Coutts & Company,bankofapis.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,disputed,2026-11-24,coutts.com|couttsbeta.com|natwest.com|natwestinternational.com|rbsinternational.com
+PREPAY TECHNOLOGIES LIMITED,edenred.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+EQUALS MONEY UK LIMITED,equalsmoney.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,spectrumpaymentservices.com
+Open Banking,org.uk,open-finance,bank transfer,GB,obie-uk|awesome-payments,https://data.directory.openbanking.org.uk/participants,disputed,2026-11-24,
+Monzo Bank Limited,monzo.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,amazonaws.com
+Starling Bank Limited,starlingbank.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+FIRSTBANK UK LIMITED,oraclecloud.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+UNITED NATIONAL BANK LIMITED,azurewebsites.net,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,ubluk.com
+ALLICA BANK LIMITED,allica.bank,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,surepay.io
+MBNA LIMITED,lloydsbanking.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,disputed,2026-11-24,
+NEWDAY LTD,newdaycards.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+Northern Bank Limited t/a Danske Bank,danskebank.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
+Barclays Bank UK Plc,barclays.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,tescobank.com
+Wise Payments Limited,transferwise.com,open-finance,,GB,obie-uk,https://data.directory.openbanking.org.uk/participants,verified,2026-11-24,
