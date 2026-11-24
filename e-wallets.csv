@@ -1,0 +1,6 @@
+﻿name,domain,category,subcategory,country,source,source_url,verified,verification_date,alternative_domains
+Google Pay,google.com,e-wallets,cex,,er-tho-crypto-exchanges|awesome-payments,https://github.com/er-tho/crypto-exchanges-list,unverified,2026-11-24,
+PayPal,paypal.com,e-wallets,crypto,,shieldz-crypto-gateways|awesome-payments,https://github.com/ShieldZCash/crypto-payment-gateways-dataset,unverified,2026-11-24,
+Apple Pay,apple.com,e-wallets,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
+Samsung Pay,samsung.com,e-wallets,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
+Alipay,alipay.com,e-wallets,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
