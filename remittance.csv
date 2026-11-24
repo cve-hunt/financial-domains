@@ -1,0 +1,6 @@
+﻿name,domain,category,subcategory,country,source,source_url,verified,verification_date,alternative_domains
+Wise,wise.com,remittance,,BR,open-finance-brasil|awesome-payments,https://data.directory.openbankingbrasil.org.br/participants,verified,2026-11-24,
+Payoneer,payoneer.com,remittance,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
+OFX,ofx.com,remittance,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
+Currencycloud,currencycloud.com,remittance,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
+Airwallex,airwallex.com,remittance,,,awesome-payments,https://github.com/brandonhimpfen/awesome-payments,unverified,2026-11-24,
