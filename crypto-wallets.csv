@@ -1,0 +1,11 @@
+﻿name,domain,category,subcategory,country,source,source_url,verified,verification_date,alternative_domains
+binance,binance.com,crypto-wallets,crypto,,er-tho-crypto-exchanges|defillama|coingecko|shieldz-crypto-gateways,https://github.com/er-tho/crypto-exchanges-list,unverified,2026-11-24,
+Phantom SOL,phantom.com,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Ambire Wallet,ambire.com,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+MetaMask USD,metamask.com,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Rainbow Spot,rainbow.me,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Zerion Perps,zerion.io,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Defiway,defiway.com,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Trust Wallet Perps,trustwallet.com,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Base App,base.app,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
+Rabby Perps,rabby.io,crypto-wallets,,,defillama,https://api.llama.fi/protocols,unverified,2026-11-24,
